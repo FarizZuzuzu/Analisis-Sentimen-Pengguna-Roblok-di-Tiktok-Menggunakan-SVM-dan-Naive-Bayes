@@ -1,2 +1,2 @@
 # Analisis-Sentimen-Pengguna-Roblok-di-Tiktok-Menggunakan-SVM-dan-Naive-Bayes
-Dalam Penelitian ini, sudah terferifikasi karena sudah melewati tahapan skripsi dan jurnal. Penelitian ini menggunakan dataset dari media sosial Tiktok dengan menggunakan teknik crawling pihak ketiga yaitu Apify (akun apify digunakan sebagai hanya token apikey nya, selebihnya di google collabs semua) . algoritma yang di pakai SVM dan Naive Bayes
+Dalam Penelitian ini, sudah terverifikasi karena sudah melewati tahapan skripsi dan jurnal. Penelitian ini menggunakan dataset dari media sosial Tiktok dengan menggunakan teknik crawling pihak ketiga yaitu Apify (2 akun apify yang digunakan hanya token apikey nya, selebihnya di google collabs semua). algoritma yang di pakai SVM dan Naive Bayes
